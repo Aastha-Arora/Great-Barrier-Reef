@@ -1,3 +1,0 @@
-This is a new line of text for my branch
-
-This is a second line of text for my test file on the new branch
