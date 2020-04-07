@@ -19,6 +19,7 @@ Wanted to see if these changes in SST connected with a decrease in tourism consu
 
 ### Datasets used
 Google Maps(API)
-National Oceanic and Atmospheric Administration(NOAA)Australian Government: Tourism Research Australia
+National Oceanic and Atmospheric Administration(NOAA)
+Australian Government: Tourism Research Australia
 
 ### Summarize findings
