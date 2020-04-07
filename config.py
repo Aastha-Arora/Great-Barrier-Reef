@@ -1,2 +1,2 @@
 # Enter your API key
-gkey = "ENTER KEY HERE!"
+gkey = "ENTER YOUR KEY"

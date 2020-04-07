@@ -1,4 +1,5 @@
 .DS_Store
 .git
-.ipnyb_checkpoints/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
 __pycache__
