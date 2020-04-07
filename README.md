@@ -18,8 +18,6 @@ We needed some way to measure not only how far the temperature is above the thre
 Wanted to see if these changes in SST connected with a decrease in tourism consumption in North Tropical Queensland, Australia due to coral bleaching in the Great Barrier Reef.
 
 ### Datasets used
-Google Maps(API)
-National Oceanic and Atmospheric Administration(NOAA)
-Australian Government: Tourism Research Australia
+Google Maps(API), National Oceanic and Atmospheric Administration(NOAA), Australian Government: Tourism Research Australia
 
 ### Summarize findings
