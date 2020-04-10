@@ -6,7 +6,7 @@ Team: Aastha Arora, Alan Franzen, Dianne Jardinez
 
 
 #### Project description
-We are Uncovering the effects of global climate change on the Australian Great Barrier Reef.
+We are uncovering the effects of global climate change on the Australian Great Barrier Reef.
 
 Looked at historical trends in Sea Surface Temperature(SST)°C and the economic effects on tourism consumption near the Great Barrier Reef.  
 
@@ -33,10 +33,10 @@ For Northern GBR:
 We looked at historic trends in Sea Surface Temperature (SST) and Degree Heating Weeks from 2000-2019 in the Northern Great Barrier Reef station. There were high points in the average SST in 2010, 2013, and 2016 -There were low points in the average SST in 2006, 2011, 2014, and 2019.
 
 
-For the low points, we looked at 2006 and 2014 and saw that no degree heating week values were more than 4 or 8 indicating that sea surface temperatures did not increase more than the Average Maximum Monthly Mean of 28.7041 C° for very long.
+For the low points, we looked at 2006 and 2014 and saw that no degree heating week values were more than 4 or 8 indicating that sea surface temperatures did not increase more than the Average Maximum Monthly Mean of 28.7 °C for very long.
 
 
-For high points, we looked at 2010 and 2016 and saw that in 2016 only, the degree heating week values reached over 8 indicating the sea surface temperatures did increase more than the Average Maximum Monthly Mean of 28.7041 C° for a long period of time. This would also mean that a widespread coral bleaching and marine mortality most likely occurred.
+For high points, we looked at 2010 and 2016 and saw that in 2016 only, the degree heating week values reached over 8 indicating the sea surface temperatures did increase more than the Average Maximum Monthly Mean of 28.7 °C for a long period of time. This would also mean that a widespread coral bleaching and marine mortality most likely occurred.
 
 
 
@@ -46,7 +46,7 @@ We calculated Daily SST data for the last 20 years but displayed that there was 
 
 Then we looked into the monthly max and average SST data and max degree heating week values for the past five years and saw a noticeable increase in SST in 2016, 2017, and 2020. 
 
-We compared the last five years for Central GBR by doing one-way analysis of variance (ANOVA)test(assumed a 5% significance level) to determine whether there was a significant difference in SST during the summer years of 2015-16, 2016-17, 2017-18, 2018-19, 2019-20 and found that that there was a variation of the average Set observed over these time periods.
+We compared the last five years for Central GBR by doing one-way analysis of variance (ANOVA)test (assumed a 5% significance level) to determine whether there was a significant difference in average SST during the summer years of 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-20 and found that that there was a variation of the average SST observed over these time periods.
 
 
 For Northern and Central GBR:
