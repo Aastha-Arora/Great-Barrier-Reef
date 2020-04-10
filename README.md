@@ -4,6 +4,7 @@ Team: Aastha Arora, Alan Franzen, Dianne Jardinez
 
 [Presentation](https://docs.google.com/presentation/d/12Ht8ZEcmuWUNDNb-ccjsUEraP6oKfDfq5JlL08IDAG4/edit?usp=sharing) (Google slides)
 
+
 #### Project description
 We are Uncovering the effects of global climate change on the Australian Great Barrier Reef.
 
@@ -17,7 +18,7 @@ We needed some way to measure not only how far the temperature is above the thre
 
 Wanted to see if these changes in SST connected with a decrease in tourism consumption in North Tropical Queensland, Australia due to coral bleaching in the Great Barrier Reef.
 
-###Questions for Research
+### Questions for Research
 How has changing sea surface temperature(SST) affected the frequency and intensity of coral bleaching at the Great Barrier Reef since 2000? For the last five years?
 
 Has Australian Tourism Consumption near the Great Barrier Reef affected by coral bleaching during bleaching events?
@@ -53,6 +54,7 @@ For Northern and Central GBR:
 We compared the SST data for the 2015-2020 during the summer months of December-March where our Null Hypothesis was that there was no statistical difference between the SST for Northern and Central GBR for the summer months. We did an Independent t-test (assumed a 5% significant level) and got a p-value of 6.52e-43 so we rejected the Null and accepted the Alternate Hypothesis that the SST at Northern GBR is different from the Central GBR.
 
 For Australian State Tourism Consumption:
+
 We obtained the annual aggregate statistics of the effect of consumption data in AUD in millions from three Australian states that border the Great Barrier Reef(New South Wales, Victoria, and Queensland) during 2007-2018. We found that New South Wales and Victoria have a positive slope in tourism consumption but that Queensland had fluctuations that coincide with high SST data.
 
 When we looked further in Tropical North Queensland, an entry way for the Great Barrier Reef tourism, and where SSTs were high from 2015-2017 in the Northern and Central GBR there was a significant drop in dollar values for tourism consumption during the same time period.
