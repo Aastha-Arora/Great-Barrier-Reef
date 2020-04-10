@@ -2,7 +2,7 @@
 
 Team: Aastha Arora, Alan Franzen, Dianne Jardinez
 
-[Presentation](https://docs.google.com/presentation/d/12Ht8ZEcmuWUNDNb-ccjsUEraP6oKfDfq5JlL08IDAG4/edit?usp=sharing) (Google slides)
+[Presentation](https://docs.google.com/presentation/d/12Ht8ZEcmuWUNDNb-ccjsUEraP6oKfDfq5JlL08IDAG4/edit?usp=sharing) (Google slides)(Updated)
 
 
 #### Project description
